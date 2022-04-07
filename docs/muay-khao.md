@@ -90,14 +90,41 @@ two, hook clinch entry`. The entry is made safer by the opponent covering from t
 
 Similarly, the clinch can be initiated on the defensive footing. For example, recall raising
 your left elbow to "answer the phone" in response to your opponent's right hook. From that
-position lower your elbow and extend the arm to find yourself on the inside, in the clinch.
+position, lower your elbow and extend the arm to find yourself on the inside, in the clinch.
 
 Whether on the offense or defense, understand that "naked" entry into the clinch is easily
-avoided and dangerous, because you are obviously moving forward. Instead, chain the entry
-to flow smoothly at the end of your existing combinations. Have several such entries ready at
-your disposal.
+avoided. It is also dangerous for you, because you are obviously moving forward. Instead, chain
+the entry to flow smoothly at the end of your existing combinations. Have several such entries
+ready at your disposal.
 
 ### Exit
+
+Exit from the clinch is likewise dangerous for both fighters. In my gym, fighters often assume
+their exits are completely covered by some sort of a mutual understanding to break apart and
+recover.
+
+Nothing can be further from the truth. The exit is a moment of extreme peril. You must
+understand this to both do it safely and to create the maximum amount of disruption for your
+opponent.
+
+Safe exit for yourself often means taking a route around, and toward the back of your opponent,
+ideally with a parting shot that reinforces the exit. Alternatively, coaches often teach a
+forceful frontal forearm push away from the action, in which both fighters end up taking a step
+back, again with a parting shot to cover.
+
+Whatever the case, moments of separation are safest when your opponent is unbalanced and you
+are not. Whenever possible, you should be the one "leading the dance" of positional dominance,
+not the other way around.
+
+In her podcast dedicated to the art of Muay Khao, Sylvie von Duuglas-Ittu recommends yo-yoing
+between the entry and exit positions, which is particularly effective when fighting under
+rulesets that discourage lengthy clinch engagements. In this way, you can enter the clinch,
+attack, push out, attack, and then reengage rapidly to keep your opponent from ever settling.
+Violent, unexpected collisions happen on the way in and out of the clinch range. This "catch
+and release" dynamic creates a moment of false relief, at a time of extreme vulnerability for
+your opponent. Exploit it to your advantage by always finishing your exits with an attack.
+Treat the exit as part of a combination and train it purposefully.
+
 ### Common Positions
 ### Top Control
 ### Bottom Control
