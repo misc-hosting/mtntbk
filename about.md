@@ -37,5 +37,5 @@ manuals from the 1910s-80s" %}
 husband Kevin deserve a special mention in gratitude of their work on the [Muay Thai
 Library](https://www.instagram.com/themuaythailibrary/) project.
 
-Please feel free to reach out with your comments or suggestions here. Support my work on
-Patreon.
+<!-- Please feel free to reach out with your comments or suggestions here. Support my work on
+Patreon. -->
