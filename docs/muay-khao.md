@@ -77,10 +77,13 @@ Ashi (Lifting Pulling Foot Sweep).
 ### Common Positions
 ### Top Control
 ### Bottom Control
-### Sweeps
-### Judo Sweeps for Muay Thai
 
-### Dumps
+### Sweeps, Dumps, and Throws
+
+#### What Is Allowed?
+
+#### Judo Sweeps for Muay Thai
+
 ### Locks
 ## Counter-play (avoiding the clinch)
 
