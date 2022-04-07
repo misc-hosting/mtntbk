@@ -31,7 +31,7 @@ essays *On Boxing* in 1987 with the photographer John Ranard), John Updike, Norm
 David Foster Wallace.
 
 {% include image.html url="../../assets/images/soviet-box.jpg" description="Classic Soviet boxing
-manual from the 1910s-80s" width="400"%}
+manual from the 1910s-80s" %}
 
 [Sylvie von Duuglas-Ittu](https://en.wikipedia.org/wiki/Sylvie_von_Duuglas-Ittu) and her
 husband Kevin deserve a special mention in gratitude of their work on the [Muay Thai
