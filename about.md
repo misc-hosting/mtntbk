@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hello, I'm Trailrunny, the author of these pages. I wrote the Muay Thai Notebook (MTNTBK) from
-the perspective of an enthusiastic learner--a nerd of the art--not an expert or teacher (Kru).
+the perspective of an enthusiastic learner---a nerd of the art---not an expert or teacher (Kru).
 These were initially my own private notes, in which I wanted to organize the huge amount of
 information I was getting from practicing, reading about, and watching Muay Thai. Later, I
 started using the notes to make my training more systematic: to motivate myself, to reflect on
