@@ -17,7 +17,7 @@ Thai](https://www.instagram.com/luckysmuaythai/) in Miami with coach Jacob. Befo
 at Coban's in Manhattan. [Coban](https://en.wikipedia.org/wiki/Coban_Lookchaomaesaitong) used
 to cook tripe for us on a hotplate after practice. And in another lifetime, I did some
 old-school American kickboxing with the local legend and champ, Kerry Roop of Rochester,
-Michigan. Someday soon, I hope to spend time training in Thailand.
+Michigan. Someday soon, I am planning a training camp in Thailand.
 
 {% include image.html url="../../assets/images/roop.jpg" description="Kerry Roop axe kicking
 the world" width="400"%}
