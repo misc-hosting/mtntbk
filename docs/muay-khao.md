@@ -74,6 +74,29 @@ Deashi Harai (Front Foot Sweep), Okuriashi Harai (Following Foot Sweep), or Hara
 Ashi (Lifting Pulling Foot Sweep).
 
 ### Entry
+
+So you like to clinch, but you get clipped on the way in. To get the fight into your preferred
+zone of action, you must first pass through your opponent's offenses in the far, middle, and
+close ranges. Safe entries and exits from the clinch must therefore be understood, visualized,
+and practiced regularly in sparring.
+
+Entries into the clinch can be chained from both your offensive and defensive
+combos.
+
+Consider for example the basic `one, two, three` boxing combo, with the three being your lead
+hook. Instead of punching, the lead hook can be modified slightly to wrap around the opponent's
+lead hand, or deeper into the position, around the neck. The combination then becomes `one,
+two, hook clinch entry`. The entry is made safer by the opponent covering from the `jab, cross`.
+
+Similarly, the clinch can be initiated on the defensive footing. For example, recall raising
+your left elbow to "answer the phone" in response to your opponent's right hook. From that
+position lower your elbow and extend the arm to find yourself on the inside, in the clinch.
+
+Whether on the offense or defense, understand that "naked" entry into the clinch is easily
+avoided and dangerous, because you are obviously moving forward. Instead, chain the entry
+to flow smoothly at the end of your existing combinations. Have several such entries ready at
+your disposal.
+
 ### Exit
 ### Common Positions
 ### Top Control
