@@ -21,8 +21,8 @@ in the clinch has its answers. Clinch fighters should therefore become familiar 
 escapes and counter-movements, in a way that allows them to flow between forms.
 
 Knees get knockouts. Dominance in the clinch looks good. And nothing beats a skillfull sweep.
-These techniques score highly, favored by audiences everywhere. And although many fights end up
-in the clinch for most of each round, clinch is rarely given the same priority as striking
+These techniques score highly, favored by audiences everywhere. But, although many fights end
+up in the clinch for most of each round, clinch is rarely given the same priority as striking
 during practice in the West.  By contrast, Thai gyms include a regular clinch regiment in their
 routine, where you can expect to see lengthy, low-key clinch grinding sessions as well as
 high-intensity sparring rounds with hard falls.
