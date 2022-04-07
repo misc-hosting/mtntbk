@@ -19,8 +19,8 @@ to cook tripe for us on a hotplate after practice. And in another lifetime, I di
 old-school American kickboxing with the local legend and champ, Kerry Roop of Rochester,
 Michigan. Someday soon, I hope to spend time training in Thailand.
 
-{% include image.html url="../../assets/images/roop.jpg" description="Kerry Roop Axe Kicking
-the World" width="400"%}
+{% include image.html url="../../assets/images/roop.jpg" description="Kerry Roop axe kicking
+the world" width="400"%}
 
 My approach to sports writing comes from Soviet-era boxing manuals such as M.I.  Romanenko's
 *The Mastery of Boxing* (1960), Y.B. Nikifirov's *A Boxer's Feel for Distance* (1971), and
@@ -30,7 +30,8 @@ Slack](https://en.wikipedia.org/wiki/Jack_Slack), Joyce Carol Oates (she wrote a
 essays *On Boxing* in 1987 with the photographer John Ranard), John Updike, Norman Mailer, and
 David Foster Wallace.
 
-![](../../assets/images/soviet-box.jpg)
+{% include image.html url="../../assets/images/soviet-box.jpg" description="Classic Soviet boxing
+manual from the 1910s-80s" width="400"%}
 
 [Sylvie von Duuglas-Ittu](https://en.wikipedia.org/wiki/Sylvie_von_Duuglas-Ittu) and her
 husband Kevin deserve a special mention in gratitude of their work on the [Muay Thai
