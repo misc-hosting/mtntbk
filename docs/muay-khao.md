@@ -41,10 +41,11 @@ Since clinch work is essentially a type of stand-up grappling, a gym with a stro
 program can borrow ideas, coaches, and ways of training from those sports to improve their Muay
 Thai curriculum.
 
-Notable Muay Khao stadium champions include [Dieselnoi Chor
+Notable Muay Khao champions include [Dieselnoi Chor
 Thanasukarn](https://en.wikipedia.org/wiki/Dieselnoi_Chor_Thanasukarn), [Petchboonchu FA
 Group](https://en.wikipedia.org/wiki/Petchboonchu_FA_Group), [Yodwicha Por
-Boonsit](https://en.wikipedia.org/wiki/Yodwicha_Por_Boonsit), 
+Boonsit](https://en.wikipedia.org/wiki/Yodwicha_Por_Boonsit), and [Sylvie von
+Duuglas-Ittu](https://en.wikipedia.org/wiki/Sylvie_von_Duuglas-Ittu).
 
 ## Clinch
 
