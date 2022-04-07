@@ -5,20 +5,22 @@ nav_order: 2
 
 ---
 
+{% include image.html url="../../assets/images/dieselnoi-knee.png" 
+description="Dieselnoi's &quot;Sky Piercing Knee&quot;" width="400"%}
+
 # Muay Khao (Knees and Clinch Style)
 
-## Introduction
 
 The art of Muay Khao emphasizes close-range techniques including clinch, knee and elbow
 strikes, dumps, and sweeps. Muay Khao fighters tend to stalk, smother, and exhaust their
 opponents with relentless forward pressure.
 
-The Muay Khao style will favor an aggressive, taller fighter with good stamina and balance.
-Shorter Nak Muays may be at a slight disadvantage when kneeing from the clinch. A taller Muay
-Khao will be susceptible to a strong bottom game, losing exchanges at the lower center of
-gravity (dumps, sweeps, or body locks). Whatever your body type, remember that every position
-in the clinch has its answers. Clinch fighters should therefore become familiar with common
-escapes and counter-movements, in a way that allows them to flow between forms.
+Muay Khao will favor an aggressive, taller fighter with good stamina and balance.  Shorter Nak
+Muays may be at a slight disadvantage when kneeing from the clinch. A taller Muay Khao will be
+susceptible to a strong bottom game, losing exchanges at the lower center of gravity (dumps,
+sweeps, or body locks). Whatever your body type, every position in the clinch has its answers.
+Clinch fighters should therefore become familiar with common escapes and counter-movements, in
+a way that allows them to flow between forms.
 
 Knees get knockouts. Dominance in the clinch looks good. And nothing beats a skillfull sweep.
 These techniques score highly, favored by audiences everywhere. But, although many fights end
