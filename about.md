@@ -22,9 +22,9 @@ Michigan. Someday soon, I hope to spend time training in Thailand.
 {% include image.html url="../../assets/images/roop.jpg" description="Kerry Roop Axe Kicking
 the World" width="400"%}
 
-My approach to sports writing comes from old-school Soviet boxing manuals such as M.I.
-Romanenko's *The Mastery of Boxing* (1960), Y.B. Nikifirov's *A Boxer's Feel for Distance*
-(1971), and Romanov's *Boxing in Long, Middle, and Close Ranges* (1979). I also love the more
+My approach to sports writing comes from Soviet-era boxing manuals such as M.I.  Romanenko's
+*The Mastery of Boxing* (1960), Y.B. Nikifirov's *A Boxer's Feel for Distance* (1971), and
+Romanov's *Boxing in Long, Middle, and Close Ranges* (1979). I also love the more
 philosophically-inclined English-language authors like [Jack
 Slack](https://en.wikipedia.org/wiki/Jack_Slack), Joyce Carol Oats (she wrote a great book of
 essays *On Boxing* in 1987 with the photographer John Ranard), John Updike, Norman Mailer, and
