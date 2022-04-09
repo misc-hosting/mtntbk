@@ -49,14 +49,17 @@ Duuglas-Ittu](https://en.wikipedia.org/wiki/Sylvie_von_Duuglas-Ittu).
 
 ## Clinch
 
-Clinch can be an effective tool for both offense and defense.
+The clinch is meant to exhaust and tie up the opponent. It presents significant offensive and
+defensive capabilities for those who practice it regularly. Those who do not, tend to panic and
+tire quickly. Do not muscle in the clinch, outside of short bursts. It is rather a game of
+balance, positional dominance, and explosive attacks.
 
-Defensively, clinch can be used to negate your opponent's favored attacks. It is particularly
-effective in smothering tricky out-fighters, who would prefer to stay at range, darting in and
-out with long straight punches, kicks, and spinning techniques. The clinch forces the
-out-fighter to the inside, reducing advantages of speed and mobility. When stalked to the
-ropes, the inexperienced out-fighter can drown under the pressure of Muay Khao's relentless
-knees, elbows, and sweeps.
+Defensively, the clinch can be used to negate your opponent's favored offensive tools. It is
+particularly effective in smothering tricky out-fighters, who would prefer to stay at range,
+darting in and out with long straight punches, kicks, and spinning techniques. The clinch
+forces the out-fighter to the inside, reducing advantages of speed and mobility. When stalked
+to the ropes, the inexperienced out-fighter can drown under the pressure of Muay Khao's
+relentless knees, elbows, and sweeps.
 
 Dominant clinchers will push, drag, hang onto, and otherwise unbalance their opponent.
 Recognizing these dominant positions allows the Muay Khao to rest in relative safety, while the
@@ -68,10 +71,17 @@ Safety in the clinch comes also from controlling the opponents neck and arm posi
 as from "hiding" the head tightly over an opponent's shoulder (for a taller fighter) or tucking
 into the chest, under the chin (for the shorter fighter). This lack of space prevents
 significant strikes. From the locked position, explosive movement is used to create space
-filled by knees and elbows. Sudden changes in positional balance flows into a limited number of
+filled by knees and elbows.
+
+{% include image.html url="../../assets/images/alaine-delmas/knee-clinch.jpg"
+description="Create space. Break posture. Knee.<sup>1</sup>" width="400" %}
+
+Sudden changes in positional balance flows into a limited number of
 allowable sweeps, similar in their dynamics to the "minor foot sweeps" in Judo such as the
 Deashi Harai (Front Foot Sweep), Okuriashi Harai (Following Foot Sweep), or Harai Tsurikomi
 Ashi (Lifting Pulling Foot Sweep).
+
+### Common Positions
 
 ### Entry
 
@@ -125,7 +135,6 @@ and release" dynamic creates a moment of false relief, at a time of extreme vuln
 your opponent. Exploit it to your advantage by always finishing your exits with an attack.
 Treat the exit as part of a combination and train it purposefully.
 
-### Common Positions
 ### Top Control
 ### Bottom Control
 
@@ -153,3 +162,8 @@ Chamuakpetch Haphalung
 
 ### Jump Knee
 
+## Credits and Footnotes
+
+1. <sub>Diagram by [Alain
+Delmas](https://commons.wikimedia.org/w/index.php?search=%22Alain+Delmas%22&title=Special:MediaSearch&go=Go&type=image),
+from Wikimedia.org, licensed under CC BY-SA 3.0.</sub>

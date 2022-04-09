@@ -20,7 +20,7 @@ old-school American kickboxing with the local legend and champ, Kerry Roop of Ro
 Michigan. Someday soon, I am planning a training camp in Thailand.
 
 {% include image.html url="../../assets/images/roop.jpg" description="Kerry Roop axe kicking
-the world" width="400"%}
+the world" width="400" %}
 
 My approach to sports writing comes from Soviet-era boxing manuals such as M.I.  Romanenko's
 *The Mastery of Boxing* (1960), Y.B. Nikifirov's *A Boxer's Feel for Distance* (1971), and
@@ -39,3 +39,5 @@ Library](https://www.instagram.com/themuaythailibrary/) project.
 
 <!-- Please feel free to reach out with your comments or suggestions here. Support my work on
 Patreon. -->
+
+
