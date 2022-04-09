@@ -8,4 +8,5 @@ nav_order: 1
 permalink: /
 ---
 
-# The Muay Thai Notebook is a learner's manual for the art and science of Muay Thai.
+# MTNTBK is a learner's manual for the art and science of Muay Thai.
+Pick a section. Work on it during practice.
