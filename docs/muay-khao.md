@@ -77,9 +77,13 @@ filled by knees and elbows.
 description="Create space. Break posture. Knee.<sup>1</sup>" width="400" %}
 
 Sudden changes in positional balance flows into a limited number of allowable sweeps, similar
-in their dynamics to Judo sweeps such as the Deashi Harai (Front Foot Sweep), Hiza Guruma (Knee
-Wheel), Okuriashi Harai (Following Foot Sweep), or Harai Tsurikomi Ashi (Lifting Pulling Foot
-Sweep). For the rules on what sweeps are allowed, see the Rules.
+in their dynamics to Judo sweeps such as the
+[Deashi-harai](https://judo.ijf.org/techniques/De-ashi-harai) (Forward Foot Sweep),
+[Okuri-ashi-harai](https://judo.ijf.org/techniques/Okuri-ashi-harai) (Following Foot Sweep),
+[Hiza-guruma](https://judo.ijf.org/techniques/Hiza-guruma) (Knee Wheel), or
+[Harai-](https://judo.ijf.org/techniques/Harai-tsurikomi-ashi) and [Sasae-tsurikomi-ashi](
+https://judo.ijf.org/techniques/Sasae-tsurikomi-ashi) (Foot Sweeps).  For the rules on what
+sweeps are allowed, see the Rules.
 
 ### Common Positions
 
@@ -142,7 +146,7 @@ and release" dynamic creates a moment of false relief, at a time of extreme vuln
 your opponent. Exploit it to your advantage by always finishing your exits with an attack.
 Treat the exit as part of a combination and train it purposefully.
 
-### Sweeps, Dumps, and Throws
+### Sweeps and Trips
 
 #### What Is Allowed?
 
