@@ -82,9 +82,13 @@ Wheel), Okuriashi Harai (Following Foot Sweep), or Harai Tsurikomi Ashi (Lifting
 Sweep). For the rules on what sweeps are allowed, see the Rules.
 
 ### Common Positions
-### Top Control
-### Bottom Control
 
+Chest to chest. Collar tie. Head post. Fifty-fifty. 
+
+Outside. Inside.
+
+Top Control.
+Bottom Control.
 
 ### Entry
 
