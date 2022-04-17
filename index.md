@@ -19,6 +19,7 @@ Pick a section. Work on it during practice.
   (Muay Khao), Kicks (Muay Tae), Punches (Muay Mat), Elbows (Muay Sok), and Advanced Skills
 (Muay Femur).
 - In addition to those, you will find several minor sections, on topics related to "Things I
-  Wish I Knew Before Starting," Training Foundations, Diet, Equipment, and a few others.
+  Wish I Knew Before Starting," Training Foundations, Diet, Equipment, Library, and a few
+others.
 
 
