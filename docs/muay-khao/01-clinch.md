@@ -1,11 +1,20 @@
 ---
 layout: default
-title: Clinch Style
-nav_order: 3
+title: Clinch
+nav_order: 1
+parent: Muay Khao
 
 ---
 
-## Clinch
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Clinch Introduction
 
 The clinch is meant to exhaust and tie up the opponent. It presents significant offensive and
 defensive capabilities for those who practice it regularly. Those who do not, tend to panic and
@@ -31,7 +40,7 @@ into the chest, under the chin (for the shorter fighter). This lack of space pre
 significant strikes. From the locked position, explosive movement is used to create space
 filled by knees and elbows.
 
-{% include image.html url="../../assets/images/alaine-delmas/knee-clinch.jpg"
+{% include image.html url="../../../assets/images/alaine-delmas/knee-clinch.jpg"
 description="Create space. Break posture. Knee.<sup>1</sup>" width="400" %}
 
 Sudden changes in positional balance flows into a limited number of allowable sweeps, similar
@@ -43,7 +52,7 @@ in their dynamics to Judo sweeps such as the
 https://judo.ijf.org/techniques/Sasae-tsurikomi-ashi) (Foot Sweeps).  For the rules on what
 sweeps are allowed, see the Rules.
 
-### Common Positions
+## Common Positions
 
 Chest to chest. Collar tie. Head post. Fifty-fifty. 
 
@@ -52,7 +61,7 @@ Outside. Inside.
 Top Control.
 Bottom Control.
 
-### Entry
+## Entry
 
 So you like to clinch, but you get clipped on the way in. To get the fight into your preferred
 zone of action, you must first pass through your opponent's offenses in the far, middle, and
@@ -76,7 +85,7 @@ avoided. It is also dangerous for you, because you are obviously moving forward.
 the entry to flow smoothly at the end of your existing combinations. Have several such entries
 ready at your disposal.
 
-### Exit
+## Exit
 
 Exit from the clinch is likewise dangerous for both fighters. In my gym, fighters often assume
 their exits are completely covered by some sort of a mutual understanding to break apart and
@@ -104,12 +113,18 @@ and release" dynamic creates a moment of false relief, at a time of extreme vuln
 your opponent. Exploit it to your advantage by always finishing your exits with an attack.
 Treat the exit as part of a combination and train it purposefully.
 
-### Sweeps and Trips
+## Sweeps and Trips
 
-#### What Is Allowed?
+### What Is Allowed?
 
-#### Judo Sweeps for Muay Thai
+### Judo Sweeps for Muay Thai
 
-### Locks
-### Training
-### Counter-play
+## Locks
+## Training
+## Counter-play
+
+## Credits and Footnotes
+
+1. <sub>Diagram by [Alain
+Delmas](https://commons.wikimedia.org/w/index.php?search=%22Alain+Delmas%22&title=Special:MediaSearch&go=Go&type=image),
+from Wikimedia.org, licensed under CC BY-SA 3.0.</sub>

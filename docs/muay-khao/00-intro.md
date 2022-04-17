@@ -1,18 +1,10 @@
 ---
 layout: default
-title: Muay Khao (Knees and Clinch Style)
+title: Intro
 nav_order: 2
+parent: Muay Khao
 
 ---
-
-{% include image.html url="../../assets/images/dieselnoi-knee.png" 
-description="Dieselnoi's &quot;Sky Piercing Knee&quot;" width="400"%}
-
-# Muay Khao (Knees and Clinch Style)
-
-The art of Muay Khao emphasizes close-range techniques including clinch, knee and elbow
-strikes, dumps, and sweeps. Muay Khao fighters tend to stalk, smother, and exhaust their
-opponents with relentless forward pressure.
 
 Muay Khao will favor an aggressive, taller fighter with good stamina and balance. Shorter Nak
 Muays may be at a slight disadvantage when kneeing from the clinch. A taller Muay Khao will be
@@ -47,8 +39,3 @@ Group](https://en.wikipedia.org/wiki/Petchboonchu_FA_Group), [Yodwicha Por
 Boonsit](https://en.wikipedia.org/wiki/Yodwicha_Por_Boonsit), and [Sylvie von
 Duuglas-Ittu](https://en.wikipedia.org/wiki/Sylvie_von_Duuglas-Ittu).
 
-## Credits and Footnotes
-
-1. <sub>Diagram by [Alain
-Delmas](https://commons.wikimedia.org/w/index.php?search=%22Alain+Delmas%22&title=Special:MediaSearch&go=Go&type=image),
-from Wikimedia.org, licensed under CC BY-SA 3.0.</sub>

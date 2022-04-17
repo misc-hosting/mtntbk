@@ -1,3 +1,10 @@
+---
+layout: default
+title: Knees
+nav_order: 2
+parent: Muay Khao
+
+---
 
 ## Knees
 
