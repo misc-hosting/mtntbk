@@ -3,6 +3,7 @@ layout: default
 title: Clinch
 nav_order: 1
 parent: Muay Khao
+permalink: muay-khao/clinch
 
 ---
 
@@ -51,6 +52,8 @@ in their dynamics to Judo sweeps such as the
 [Harai-](https://judo.ijf.org/techniques/Harai-tsurikomi-ashi) and [Sasae-tsurikomi-ashi](
 https://judo.ijf.org/techniques/Sasae-tsurikomi-ashi) (Foot Sweeps).  For the rules on what
 sweeps are allowed, see the Rules.
+
+<div data-ms-content="boxer-pages">
 
 ## Common Positions
 
@@ -123,8 +126,11 @@ Treat the exit as part of a combination and train it purposefully.
 ## Training
 ## Counter-play
 
+</div>
+
 ## Credits and Footnotes
 
 1. <sub>Diagram by [Alain
 Delmas](https://commons.wikimedia.org/w/index.php?search=%22Alain+Delmas%22&title=Special:MediaSearch&go=Go&type=image),
 from Wikimedia.org, licensed under CC BY-SA 3.0.</sub>
+

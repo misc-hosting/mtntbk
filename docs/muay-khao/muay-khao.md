@@ -7,7 +7,7 @@ has_children: true
 ---
 
 {% include image.html url="../../../assets/images/dieselnoi-knee.png" 
-description="Dieselnoi's &quot;Sky Piercing Knee&quot;" width="400"%}
+description="Dieselnoi's &quot;Sky Piercing Knee&quot;" width="300"%}
 
 # Muay Khao (Knees and Clinch Style)
 {: .no_toc }
