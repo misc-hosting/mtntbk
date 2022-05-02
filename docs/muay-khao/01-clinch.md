@@ -19,10 +19,10 @@ permalink: muay-khao/clinch
 
 The clinch is meant to exhaust and tie up the opponent. It presents significant offensive and
 defensive capabilities for those who practice it regularly. Those who do not, tend to panic and
-tire quickly. Do not muscle in the clinch, outside of short bursts. It is rather a game of
+tire quickly. Don't muscle in the clinch, outside of short bursts. It's rather a game of
 balance, positional dominance, and explosive attacks.
 
-Defensively, the clinch can be used to negate your opponent's favored offensive tools. It is
+Defensively, the clinch can be used to negate your opponent's favored offensive tools. It's
 particularly effective in smothering tricky out-fighters, who would prefer to stay at range,
 darting in and out with long straight punches, kicks, and spinning techniques. The clinch
 forces the out-fighter to the inside, reducing advantages of speed and mobility. When stalked
@@ -32,7 +32,7 @@ relentless knees, elbows, and sweeps.
 Dominant clinchers will push, drag, hang onto, and otherwise unbalance their opponent.
 Recognizing these dominant positions allows the Muay Khao to rest in relative safety, while the
 opponent expands significant energy trying to "muscle out" of the position. At the extreme, a
-fading fighter can use the clinch to play for locked positions, stalling the game until a
+fading fighter uses the clinch to play for locked positions, stalling the game until a
 referee's break.
 
 Safety in the clinch comes also from controlling the opponents neck and arm positions, as well
@@ -50,19 +50,46 @@ in their dynamics to Judo sweeps such as the
 [Okuri-ashi-harai](https://judo.ijf.org/techniques/Okuri-ashi-harai) (Following Foot Sweep),
 [Hiza-guruma](https://judo.ijf.org/techniques/Hiza-guruma) (Knee Wheel), or
 [Harai-](https://judo.ijf.org/techniques/Harai-tsurikomi-ashi) and [Sasae-tsurikomi-ashi](
-https://judo.ijf.org/techniques/Sasae-tsurikomi-ashi) (Foot Sweeps).  For the rules on what
+https://judo.ijf.org/techniques/Sasae-tsurikomi-ashi) (Foot Sweeps). For the rules on what
 sweeps are allowed, see the Rules.
 
 <div data-ms-content="boxer-pages">
 
+In older Muay Thai manuals, the clinch was often called the "chest-to-chest" position. But
+depending on your height and your strength, you may end up preferring to play for top
+dominance (over), or for bottom dominance (under). Your goal in this section should be to
+develop a flexible game plan: to recognize common positions, transitions, and counters.
+
+With time, you may develop a "system" that is uniquely yours, playing on your strengths and
+preferences. For example, as a taller fighter (6"2', 160lb), I often find myself in the
+top-heavy, "over" position, where it's easier for me to hide my head over the shoulder of my
+opponent. From there, I would also to prefer to knee aggressively, since my height makes it
+easier to clear the waist. From there, I'll also find it easier to elbow over my opponents
+guard. The difference in height naturally floats my efforts up, and the opponent's, down.
+
+This preferred game plan goes out of the window when meeting fighters of similar or taller
+stature. In the "under" game, I do better in hiding or "posting" my head on the opponents
+chest, digging up, and into the chin with the top of my head. And since kneeing above the belt
+is difficult with a taller opponent, I will prefer to knee into the thigh, or play for sweeps.
+From the bottom, I also have better access to sneaky uppercuts and up-elbows, blocked by the
+blind-spots of the taller fighter. At a height disadvantage, I therefore concentrate my
+attention on the bottom half of the body, playing for the advantages that come naturally from
+the bottom.
+
+Whatever your preferred position, avoid treating the clinch as a static position. Similar to
+other forms of specialized grappling, it's rather a dynamic system, which has to be adapted
+actively to your opponent's strengths and weaknesses. Once you train to recognize common
+positions automatically, you will naturally begin to dominate
+
 ## Common Positions
+
+
+## Basic Positions
 
 Chest to chest. Collar tie. Head post. Fifty-fifty. 
 
-Outside. Inside.
-
-Top Control.
-Bottom Control.
+## Over
+## Under
 
 ## Entry
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Knees
-nav_order: 1
+nav_order: 2
 parent: Muay Khao
 permalink: muay-khao/knees
 
