@@ -52,7 +52,7 @@ The playful attitude of an MT fighter emphasises emotional and physical composur
 over anger. It requires staying calm under stress. Ultimately, it projects an image of strength
 through calm, cool, collected action.
 
-Content coming soon!
+{% include coming-soon.html %}
 
 ### Community.
 
@@ -78,17 +78,17 @@ door.
 
 ### Style.
 
-Content coming soon!
+{% include coming-soon.html %}
 
 ### Economy of movement.
 
-Content coming soon!
+{% include coming-soon.html %}
 
 ### Repetition.
 
-Content coming soon!
+{% include coming-soon.html %}
 
 ### Fitness.
 
-Content coming soon!
+{% include coming-soon.html %}
 

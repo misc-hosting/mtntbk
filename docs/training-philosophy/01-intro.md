@@ -8,7 +8,6 @@ permalink: training-philosophy/intro
 
 ---
 
-
 ## Introduction to a Philosophy of Training
 
 What is a *philosophy* of the art, anyway? Or philosophy of sport? And why should you care?
@@ -17,15 +16,15 @@ preparation for competition. A modern marathon runner, for example, will alterna
 with tempo workouts. The advanced regiment will include stretching exercises, diets, recovery
 periods, cross-training, and so on.
 
-Your gym and your coaches will introduce you to many of these specific elements. However, none
-of these disciplines alone amount to an art. Your local gym may be great in some aspect of the
-sport, and not so great in others. That doesn't matter.  Nothing is perfect. Yet, even as a
-beginner, you can watch a Muay Thai bout and think to yourself, "This is beautiful form." And
-after a good practice, you think "This was the Muay Thai way." Or, "This wasn't." There wasn't
-necessarily anything wrong with the exercise: it was athletic, impressive, and good for you
-even. It just wasn't it. It wasn't the way. It didn't look or feel right. And that is
-philosophy. Whatever else you are doing with your body, you are cultivating an idea: of good
-and bad, right and wrong, ugly and beautiful.
+Your gym and your coaches will introduce you to many of the specific elements particular to
+their training schedule. However, none of these disciplines alone amount to an art. Your local
+gym may be great in some aspect of the sport, and not so great in others. That doesn't matter.
+Nothing is perfect. Yet, even as a beginner, you can watch a Muay Thai bout and think to
+yourself, "This is beautiful form." And after a good practice, you think "This was the Muay
+Thai way." Or, "This wasn't." There wasn't necessarily anything wrong with the exercise: it was
+athletic, impressive, and good for you even. It just wasn't it. It wasn't the way. It didn't
+look or feel right. And that is philosophy. Whatever else you are doing with your body, you are
+cultivating an idea: of good and bad, right and wrong, ugly and beautiful.
 
 Nobody can tell you what that idea is exactly, in words, because it has to do with the movement
 of your body. A philosophy of the body is something that you cultivate through exercise, diet,
@@ -44,6 +43,13 @@ this way, taking notes or visualizing the perfect movement in your head, should 
 your practice from day one. The philosophy makes the sport meaningful, beyond the gym. And it
 can sustain you through tough times, at low points when you are feeling down, unmotivated, or
 injured.
+
+Of course, this way of life has its home in Southeast Asia: Thailand, Cambodia, and Laos. Today
+it's also practiced in gyms all over the world: popular on its own merits and as one of the
+pillars within the greater mixed martial arts movement. As a recipient of this tradition
+outside of its homeland, I cannot claim some special, authoritative point of view on the art as
+a whole. These are a student's observations, which I share with you in hopes of a common
+starting point (and not an end) to a life-long discussion.
 
 Okay then, so I have convinced you to think of yourself as a philosopher at any sport. Don't
 just punch things, think about them too. Fine. What about Muay Thai in particular? What makes

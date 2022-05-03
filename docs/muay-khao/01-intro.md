@@ -7,6 +7,9 @@ permalink: muay-khao/intro
 
 ---
 
+{% include image.html url="../../../assets/images/dieselnoi-knee.png" 
+description="Dieselnoi's &quot;Sky Piercing Knee&quot;" width="300"%}
+
 ## Introduction to the Techniques of Muay Khao
 
 Muay Khao will favor an aggressive, taller fighter with good stamina and balance. Shorter Nak
