@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Seven Remarkable Principles of MT
+title: Seven Principles of MT
 nav_order: 2
 published: True
 parent: Training Philosophy
@@ -8,13 +8,7 @@ permalink: training-philosophy/principles
 
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
+{% include toc.html %}
 
 ## The Seven Remarkable Principles of MT
 {: .no_toc }
@@ -23,7 +17,7 @@ permalink: training-philosophy/principles
 
 If Thailand is the "land of smiles," according to the tourist brochure, Muay Thai is the art of
 beating someone up in a way that's lighthearted and fun. Preferably for both people involved.
-The Thai gym is distinctive for its playful attitude, even as Thai fighters are known for their
+Thai gyms are distinctive for their playful attitude, even as Thai fighters are known for their
 brutal skill and tenacity in the ring.
 
 This light touch is apparent as soon as you walk into any Muay Thai gym, distinct from Karate

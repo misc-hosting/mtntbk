@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Typical Training Regiments
+title: Training Regiment
 nav_order: 3
 published: True
 parent: Training Philosophy
