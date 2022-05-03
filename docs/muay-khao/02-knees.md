@@ -1,23 +1,13 @@
 ---
 layout: default
 title: Knees
-nav_order: 3
+nav_order: 4
 parent: Muay Khao
-permalink: muay-khao/knees
+permalink: muay-khao/knee-tech
 
 ---
 
-## Knees
+{% include toc.html %}
 
-### Short Knee
+{% include coming-soon.html %}
 
-### Long Knee
-Chamuakpetch Haphalung 
-
-### Spear Knee
-
-### Side Knee
-
-### Jump Knee
-### Counter-play
-### Training

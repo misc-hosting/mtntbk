@@ -8,9 +8,9 @@ permalink: training-philosophy/regiments
 
 ---
 
-## Training Regiments
+## Common Training Regiments
 
-Content coming soon!
+{% include coming-soon.html %}
 
 <div data-ms-content="boxer-pages">
 Jump Rope
