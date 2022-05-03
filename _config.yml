@@ -54,6 +54,7 @@ exclude:
 # JUST THE DOCS
 # Enable or disable the site search
 # Supports true (default) or false
+logo: "/assets/images/logo3.png"
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
