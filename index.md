@@ -24,6 +24,6 @@ updates.
 and Advanced Skills (Muay Femur).
 - In addition to those, you will find several **minor sections**, on topics related to "Things
   I Wish I Knew Before Starting," [Training Philosophy](training-philosophy/), Equipment,
-Library, and a few others.
+Nutrition, Library, and a few others.
 
 
