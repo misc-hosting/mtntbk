@@ -50,9 +50,15 @@ Though MT fighters retire early, the way of joyous training sustains its practit
 lifetime. Fewer injuries means more fitness and more fun. Lighthearted sparring means more
 sparring practice for those who would otherwise be too intimidated to join. Though gender
 dynamics are culturally specific and complex, the Muay Thai way makes it easy to train across
-sexes, ages, and weight classes. The playful attitude emphasises emotional and physical
-control: laughter over anger. It requires staying calm under stress. Ultimately, it projects an
-image of strength through calm, cool, collected action.
+sexes, ages, and weight classes.
+
+### Composure.
+
+The playful attitude of an MT fighter emphasises emotional and physical composure: laughter
+over anger. It requires staying calm under stress. Ultimately, it projects an image of strength
+through calm, cool, collected action.
+
+Content coming soon!
 
 ### Community.
 
@@ -76,7 +82,7 @@ In fighting and in adult life such opportunities are exceedingly rare, which mak
 Thai gym a pretty special place. Its communal spirit should be apparent as soon as you open the
 door.
 
-### Form.
+### Style.
 
 Content coming soon!
 
@@ -85,10 +91,6 @@ Content coming soon!
 Content coming soon!
 
 ### Repetition.
-
-Content coming soon!
-
-### Composure.
 
 Content coming soon!
 
