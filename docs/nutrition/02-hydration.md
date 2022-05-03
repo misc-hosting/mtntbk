@@ -1,31 +1,12 @@
 ---
 layout: default
-title: Nutrition
+title: Hydration
 nav_order: 2
-published: false
+published: True
+parent: Nutrition
+permalink: nutrition/hydro
 
 ---
-
-My first piece of advice about nutrition is: Don't listen to me (or anybody else online).
-*Everything* in this chapter should be discussed with your coach, your gym mates, your
-physician, and probably your mom.
-
-The second advice I can give you is to keep it simple. There are books and books written about
-sport nutrition. Many of them are bullshit. If and when you feel lost revert to the basics:
-(1) stay hydrated and (2) eat simple, fresh, whole foods in moderation.
-
-Get a scale. Weight gains or losses come from paying careful attention to your body. You will
-have to modify any diet and exercise plans to fit your body and lifestyle. Weight cutting or
-any other drastic measures are best reserved for competitive athletes, who work under the
-supervision of their coach and physician.
-
-I do not want to write yet another nutrition book to confuse you. The following are rather a
-few simple "rules of thumb" that have worked for me and that have reasonable support in
-scientific literate.
-
-## Food Before, During, or After Practice
-
-{% include coming-soon.html %}
 
 ## Hydration
 
@@ -49,6 +30,7 @@ you must rehydrate, use an electrolyte mix consisting of Sodium, Potassium, and
 Magnesium.<sup>2</sup> And unless you are doing long sessions (more than 1-2hr), you are still
 better off hydrating well before and after practice.
 
+{: .fs-3 }
 1. Schwellnus MP. "Cause of Exercise Associated Muscle Cramps (EAMC) — altered neuromuscular
 control, dehydration or electrolyte depletion?"  *British Journal of Sports Medicine*
 2009-43:401-408.
@@ -71,6 +53,7 @@ effectively signal to your muscles. The signal passes through, you guessed it, w
 or too little salt begins to change the conductivity of the water-logged cells that carry
 electrical signals, impairing their function. Hence, cramps.<sup>1</sup>
 
+{: .fs-3 }
 1. Horswill CA, Stofan JR, Lacambra M, Toriscelli TA, Eichner ER, Murray R. "Sodium balance
 during U.S. football training in the heat: cramp-prone vs. reference players." *International
 Journal of Sports Medicine* 2009-30:789–794.
@@ -100,12 +83,15 @@ Let's take these one at a time. The amount of water I lose during session depend
 my body mass, the type of exercise, and ambient temperature. I will get dehydrated quicker if I
 exercise hard when it's hot out. A study published in the Scandinavian Journal of Medicine in
 Sports gives the following rule of thumb, concluding that "**in temperate conditions,
-dehydration by 1---2% of body mass had no effect on endurance exercise performance when the
-exercise duration was less than 90 min.**"<sup>1</sup> To repeat, you can lose up to 1 to 2% of
+dehydration by 1--2% of body mass had no effect on endurance exercise performance when the
+exercise duration was less than 90 min.**"<sup>1</sup> To repeat, you can lose up to 1 to 2% of
 your body mass in water, without an effect on endurance. For me at 160lb or 73kg that's almost
 four cups or a liter of water! And none of it is relevant if the exercise session is shorter
 than 90 minutes.
 
+{: .fs-3 }
+1. Maughan, R.J. and Shirreffs, S.M. "Dehydration and rehydration in competitive sport."
+*Scandinavian Journal of Medicine & Science in Sports*, 2010-20: 40-47.
 Conversely, if you are losing more than that amount or if you are exercising for longer than
 90 minutes, you may start to think about taking your first water break, with a carefully
 formulated hydration solution.
@@ -122,15 +108,4 @@ To avoid these problems, I make a large pot of herbal tea (usually Turmeric) wit
 of honey and dash of Lite Salt, which contains both Sodium and Potassium. The tea goes into a
 sports bottle, which I bring with me to practice to drink after a session to rehydrate. This
 aluminum bottle gets cleaned and replenished daily in preparation for my next training session.
-
-1. Maughan, R.J. and Shirreffs, S.M. "Dehydration and rehydration in competitive sport."
-**Scandinavian Journal of Medicine & Science in Sports**, 2010-20: 40-47.
-
-## Weight Gain and Loss
-
-{% include coming-soon.html %}
-
-## Weight Cutting
-
-{% include coming-soon.html %}
 

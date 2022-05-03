@@ -55,4 +55,3 @@ Okay then, so I have convinced you to think of yourself as a philosopher at any 
 just punch things, think about them too. Fine. What about Muay Thai in particular? What makes
 it unique among other martial arts? What is the good and the beautiful in Muay Thai? What are
 its core tenets and principles?
-
