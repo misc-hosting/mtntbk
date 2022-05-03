@@ -1,61 +1,25 @@
 ---
 layout: default
-title: Training Philosophy
+title: The Seven Remarkable Principles of MT
 nav_order: 2
-published: false
+published: True
+parent: Training Philosophy
+permalink: training-philosophy/principles
 
 ---
 
-Muay Thai can be super fun. And healthy. And challenging. And yes, it's a sport that can be
-practiced as any other sport, Western Kickboxing or Brazilian Jiu-Jitsu. Yet, it is also an
-art, which carries with it a sense of a distinctive style and a way of thinking---a philosophy
-of the body.
+## Table of contents
+{: .no_toc .text-delta }
 
-Of course, this way of life has its home in Southeast Asia: Thailand, Cambodia, and Laos. Today
-it's also practiced in gyms all over the world: popular on its own merits and as one of the
-pillars within the greater mixed martial arts movement. As a recipient of this tradition
-outside of its homeland, I cannot claim some special, authoritative point of view on the art as
-a whole. These are a student's observations, which I share with you in hopes of a common
-starting point (and not an end) to a life-long discussion.
+1. TOC
+{:toc}
 
-But what is a philosophy of the art, anyway? Or philosophy of sport? And why should you care?
-All sports involve a training regiment: some things that you do during practice, for fun or in
-preparation for competition. A modern marathon runner, for example, will alternate easy runs
-with tempo workouts. The advanced regiment will include stretching exercises, diets, recovery
-periods, cross-training, and so on. Your gym and your coaches will introduce you to many of
-these specific elements. However, none of these disciplines alone amount to an art. Your local
-gym may be great in some aspect of the sport, and not so great in others. That doesn't matter.
-Nothing is perfect. Yet, even as a beginner, you can watch a Muay Thai bout and think to
-yourself, "This is beautiful form." And after a good practice, you think "This was the Muay
-Thai way." Or, "This wasn't." There wasn't necessarily anything wrong with the exercise: it was
-athletic, impressive, and good for you even. It just wasn't it. It wasn't the way. It didn't
-look or feel right. And that is philosophy. Whatever else you are doing with your body, you are
-cultivating an idea: of good and bad, right and wrong, ugly and beautiful.
-
-Nobody can tell you what that idea is exactly, in words, because it has to do with the movement
-of your body. A philosophy of the body is something that you cultivate through exercise, diet,
-recovery periods, cross-training, etc. But, to become a philosophy you also need to reflect on
-that activity intellectually. That means to visualize the movements in your mind. To think
-about not just the how of each movement, but the why. To imagine them within the emotional
-context of exhaustion, or joy. To think of the tissues that connect the foot that pivots with
-the hook that follows. To imagine that mental space of your opponent, and to anticipate their
-movement. Those are the things that elevate mere physical movement into a philosophy.
-
-All great athletes embody a philosophy of the sport, implicitly or explicitly. But you don't
-have to be an elite athlete to become a philosopher. In fact, reflecting on your training in
-this way, taking notes or visualizing the perfect movement in your head, should be a part of
-your practice from day one. The philosophy makes the sport meaningful, beyond the gym. And it
-can sustain you through tough times, at low points when you are feeling down, unmotivated, or
-injured.
-
-Okay then, so I have convinced you to think of yourself as a philosopher at any sport. Don't
-just punch things, think about them too. Fine. What about Muay Thai in particular? What makes
-it unique among other martial arts? What is the good and the beautiful in Muay Thai? What are
-its core tenets and principles?
+---
 
 ## The Seven Remarkable Principles of MT
+{: .no_toc }
 
-1. Joy.
+###  Joy.
 
 If Thailand is the "land of smiles," according to the tourist brochure, Muay Thai is the art of
 beating someone up in a way that's lighthearted and fun. Preferably for both people involved.
@@ -90,7 +54,7 @@ sexes, ages, and weight classes. The playful attitude emphasises emotional and p
 control: laughter over anger. It requires staying calm under stress. Ultimately, it projects an
 image of strength through calm, cool, collected action.
 
-2. Community.
+### Community.
 
 The feeling of a community is something that flows naturally from the joy of training in a
 well-functioning Muay Thai gym. Many gyms in Thailand thrive in a rural, family-oriented
@@ -112,14 +76,23 @@ In fighting and in adult life such opportunities are exceedingly rare, which mak
 Thai gym a pretty special place. Its communal spirit should be apparent as soon as you open the
 door.
 
-2. Form.
-3. Economy of movement.
-4. Repetition.
-5. Composure.
-7. Fitness.
+### Form.
 
-## Training Regiments
+Content coming soon!
 
-Jump Rope
-Road Work (Running)
-Strength and Conditioning
+### Economy of movement.
+
+Content coming soon!
+
+### Repetition.
+
+Content coming soon!
+
+### Composure.
+
+Content coming soon!
+
+### Fitness.
+
+Content coming soon!
+

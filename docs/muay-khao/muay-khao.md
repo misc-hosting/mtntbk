@@ -3,6 +3,7 @@ layout: default
 title: Muay Khao
 nav_order: 3
 has_children: true
+permalink: muay-khao/
 
 ---
 

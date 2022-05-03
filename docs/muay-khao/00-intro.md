@@ -3,8 +3,11 @@ layout: default
 title: Intro
 nav_order: 1
 parent: Muay Khao
+permalink: muay-khao/intro
 
 ---
+
+## Introduction to the Techniques of Muay Khao
 
 Muay Khao will favor an aggressive, taller fighter with good stamina and balance. Shorter Nak
 Muays may be at a slight disadvantage when kneeing from the clinch. A taller Muay Khao will be

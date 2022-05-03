@@ -15,7 +15,7 @@ permalink: muay-khao/clinch
 
 ---
 
-## Clinch Philosophy
+## Clinch Theory
 
 The clinch is meant to exhaust and tie up the opponent. It presents significant offensive and
 defensive capabilities for those who practice it regularly. Those who do not, tend to panic and
@@ -95,12 +95,12 @@ fluidly begin to flow between dominant positions, in search for a decisive advan
 
 ## Common Positions
 
-<div data-ms-content="boxer-pages">
-
 To make things more orderly, let's conceptualize the clinch as involving several distinct
 games: over and under, inside and outside, long and short. Later, we'll be able to connect the
 these into a single, continuous system. Though, of course, you will naturally prefer some of
 these positions over the others.
+
+<div data-ms-content="boxer-pages">
 
 ## Over and Under
 
