@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Seven Principles of MT
+title: Seven Principles
 nav_order: 2
 published: True
 parent: Training Philosophy
 permalink: training-philosophy/principles
 
 ---
-Beta Draft
+Draft
 {: .label .label-yellow}
 
 {% include toc.html %}

@@ -7,6 +7,7 @@ permalink: muay-khao/clinch
 
 ---
 
+{% include labels/draft.html %}
 {% include toc.html %}
 
 ## Clinch Theory
@@ -87,25 +88,31 @@ other forms of specialized grappling, it's rather a dynamic system, which has to
 actively to your opponent. Once you train to recognize common positions automatically, you will
 fluidly begin to flow between dominant positions, in search for a decisive advantage.
 
-## Common Positions
+## Common Positions 
+
+{% include labels/members-only.html %}
+
+<div data-ms-content="members">
 
 To make things more orderly, let's conceptualize the clinch as involving several distinct
 games: over and under, inside and outside, long and short. Later, we'll be able to connect the
 these into a single, continuous system. Though, of course, you will naturally prefer some of
 these positions over the others.
 
-<div data-ms-content="boxer-pages">
+</div>
 
-## Over and Under
+## Over and Under 
+
+<div data-ms-content="members">
 
 The *over* game favors the taller fighter, involving several dominant, top positions.
 
-The first of these 
+</div>
 
-### Over
-### Under
+## Entry and Exit 
 
-## Entry and Exit
+{% include labels/members-only.html %}
+<div data-ms-content="members">
 
 So you like to clinch, but you get clipped on the way in. To get the fight into your preferred
 zone of action, you must first pass through your opponent's offenses in the far, middle, and
@@ -155,17 +162,17 @@ and release" dynamic creates a moment of false relief, at a time of extreme vuln
 your opponent. Exploit it to your advantage by always finishing your exits with an attack.
 Treat the exit as part of a combination and train it purposefully.
 
+</div>
+
 ## Sweeps and Trips
 
-### What Is Allowed?
+### Competition Rules
 
 ### Judo Sweeps for Muay Thai
 
 ## Locks
 ## Training
 ## Counter-play
-
-</div>
 
 ## Credits and Footnotes
 

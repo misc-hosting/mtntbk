@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hydration
+title: Hydration 
 nav_order: 2
 published: True
 parent: Nutrition
@@ -8,13 +8,13 @@ permalink: nutrition/hydro
 
 ---
 
-Fact Checked
-{: .label .label-green }
+{% include labels/fact.html %}
+{% include labels/draft.html %}
 
-First Draft
-{: .label .label-yellow }
+## Hydration 
+{% include labels/members-only.html %}
 
-## Hydration
+<div data-ms-content="members" markdown="1">
 
 The old Soviet manuals are adamant about not drinking water during practice. This idea makes a
 lot of sense to me as well as being supported by the science.
@@ -115,3 +115,4 @@ of honey and dash of Lite Salt, which contains both Sodium and Potassium. The te
 sports bottle, which I bring with me to practice to drink after a session to rehydrate. This
 aluminum bottle gets cleaned and replenished daily in preparation for my next training session.
 
+</div>

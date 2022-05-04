@@ -8,6 +8,8 @@ permalink: training-philosophy/intro
 
 ---
 
+{% include labels/draft.html %}
+
 ## Introduction to a Philosophy of Training
 
 What is a *philosophy* of the art, anyway? Or philosophy of sport? And why should you care?

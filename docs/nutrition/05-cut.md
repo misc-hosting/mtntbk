@@ -2,7 +2,7 @@
 layout: default
 title: Weight Cut
 nav_order: 5
-published: True
+published: False
 parent: Nutrition
 permalink: nutrition/cut
 

@@ -19,8 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Muay Thai Notebook
+tagline: >-
+  A learner’s manual for the art and science of Muay Thai.
 description: >- # this means to ignore newlines until "baseurl:"
-  A learner's encyclopedia for all things Muay Thai.
+  The most comprehensive online resource for the Muay Thai practitioner, Boxing, and MMA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mtntbk.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -84,9 +86,14 @@ search:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-# aux_links:
-#   "Just the Docs on GitHub":
-#     - "//github.com/just-the-docs/just-the-docs"
+aux_links:
+  "Signup/Login":
+    - "#/ms/login"
+  "Profile":
+    - "#/ms/profile"
+  "Logout":
+    - "#/ms/logout"
+
 
 # Makes Aux links open in a new tab. Default is false
 # aux_links_new_tab: false
@@ -117,7 +124,7 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: light
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89

@@ -2,7 +2,7 @@
 layout: default
 title: Weight
 nav_order: 4
-published: True
+published: False
 parent: Nutrition
 permalink: nutrition/weight
 

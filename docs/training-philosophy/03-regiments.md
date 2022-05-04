@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Training Regiment
+title: Regiment
 nav_order: 3
-published: True
+published: False
 parent: Training Philosophy
-permalink: training-philosophy/regiments
+permalink: training-philosophy/routine
 
 ---
 
-## Common Training Regiments
+## Common Training Routines
 
 {% include coming-soon.html %}
 
