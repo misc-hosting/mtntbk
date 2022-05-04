@@ -11,9 +11,8 @@ permalink: nutrition/hydro
 {% include labels/fact.html %}
 {% include labels/draft.html %}
 
-## Hydration 
+## Hydration <span data-ms-content="!members"></span><span data-ms-content="members">🔓</span>
 {% include labels/members-only.html %}
-
 <div data-ms-content="members" markdown="1">
 
 The old Soviet manuals are adamant about not drinking water during practice. This idea makes a
