@@ -8,6 +8,12 @@ permalink: nutrition/hydro
 
 ---
 
+Fact Checked
+{: .label .label-green }
+
+First Draft
+{: .label .label-yellow }
+
 ## Hydration
 
 The old Soviet manuals are adamant about not drinking water during practice. This idea makes a

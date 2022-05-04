@@ -7,6 +7,8 @@ parent: Training Philosophy
 permalink: training-philosophy/principles
 
 ---
+Beta Draft
+{: .label .label-yellow}
 
 {% include toc.html %}
 
