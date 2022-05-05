@@ -109,7 +109,10 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2022 Trailrunny."
+# footer_content is deprecated, but still supported. For a better experience we have moved
+# this into an include called _includes/footer_custom.html which will allow for robust markup
+# / liquid-based content.
+# footer_content: "Copyright &copy; 2022 Trailrunny."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
