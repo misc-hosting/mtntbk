@@ -15,8 +15,8 @@ Pick a section. Work on it during practice.
   mode. Existing chapters are in progress, and have not yet been edited. Many more chapters and
 chapter sections are coming soon! Check out the [Change Log](meta/change-log/) for the latest
 updates.
-- I wrote MTNTBK as a series of essays, from a learner's perspective. These are the things I
-  **think** about, **visualize**, and later **practice**.
+- I wrote MTNTBK as a series of short essays, from a learner's perspective. These are the
+  things I **think** about, **visualize**, and later **practice**.
 - Therefore, it is **not meant to be read linearly**. In the spirit of philosophical
   reflection: pick a concept or section, dwell on it, and extend it into your own practice.
 - The MTNTBK will organized in five **major sections**, dedicated to [Knee and Clinch
